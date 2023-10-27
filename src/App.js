@@ -67,6 +67,7 @@ const App = ()=>{
                     <MovieCard movie={movie}/>
                  ))}
             </div>
+            
 
              ) : (
                 <div className='empty'>
